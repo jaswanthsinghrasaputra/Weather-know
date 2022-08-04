@@ -1,0 +1,8 @@
+.glow1 {
+  color: rgb(14, 240, 6);
+  text-shadow: 1px 1px 2px rgb(255, 0, 0), 0 0 25px rgb(221, 201, 197), 0 0 5px rgb(215, 215, 224);
+}
+.glow {
+  color: rgb(250, 5, 9);
+  text-shadow: 1px 1px 2px rgb(13, 0, 0), 0 0 25px rgb(194, 190, 222), 0 0 5px rgb(18, 18, 74);
+}
